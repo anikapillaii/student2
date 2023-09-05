@@ -8,4 +8,4 @@ Hi!! My name is Anika Pillai and I am a Senior at Del Norte High School. Some of
 
 **HERE ARE SOME PICTURES TO GET TO KNOW ME!**
 
-![Image](images/IMG_5663.jpg)
+<img src="images/IMG_5663.jpg">

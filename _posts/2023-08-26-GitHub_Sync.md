@@ -1,4 +1,4 @@
----
+<!-- ---
 toc: true
 comments: false
 hide: true
@@ -64,4 +64,4 @@ Sync will push files to GitHub and create an Action for GitHub Pages updates, si
     ![]({{ site.baseurl }}/images/push.jpg)
 
 - Watch Actions until done, open action link and review changes on github.io
-
+ -->

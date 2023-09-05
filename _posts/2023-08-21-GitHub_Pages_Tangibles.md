@@ -1,4 +1,4 @@
----
+<!-- ---
 toc: true
 comments: true
 layout: post
@@ -20,4 +20,4 @@ courses: { compsci: {week: 1} }
 - Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
 - Run make commands to build and test blog locally, before pushing changes to GitHub pages.
 - Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+- Discuss development on Themes, show how you plan to organized lab notebook. -->
