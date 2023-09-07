@@ -1,0 +1,44 @@
+---
+# toc: true
+comments: false
+layout: default
+title: Week 1 Lab Notebook
+# description: Lab notebook covering week 1
+type: tangibles
+courses: { 'compsci': {'week': 1} }
+---
+
+**Python Quiz Description**
+
+While exploring Jupyter Notebook, I was able to go through the python code for teh quiz and see how it worked. I saw that a function needed to be defined in order for the quiz to function, so I defined it and the quiz worked properly. I then used Jupyter Notebook to put that pyython code into my website.
+
+**Problems**
+
+- The quiz questions were a little bit too easy and didnt take much thought in order to answer
+- The answers were case sensitvie and were kind of annoying if the user made the first letter capital
+
+**Solution**
+
+- I brainstormed new quiz problems and edited the list of questions that already existed
+- I used elif to add different versions of capital letters for the answers
+
+**Skills used/learned**
+
+- I learned how to use Jupyter Notebook to add puthon code to the website with cells
+- I used the elif function in puthon to add variations of the correct answer 
+
+**Calculator Description**
+I wanted to add a calculator to my website so I decided to code one using HTML, CSS, and JavaScript. I wanted to have a current operation display and a previous one right above it in smaller font that displayed the last function.
+
+**Problems**
+
+- I had a visual issue where whenever I clicked a new operation, the current opperation function would move to the previous function area without clicking the equals button
+
+**Solutions**
+
+- I deleted the previous operation div entirely which took away a lot of unnecessary complexity and made it easier to create the calculator 
+
+**Skills used/learned**
+
+- I learned how to use HTML, CSS, and JavaScript to create a simple GUI based calculator 
+- I used the eval function in JavaScript to evalute the current operation and display the new answer
