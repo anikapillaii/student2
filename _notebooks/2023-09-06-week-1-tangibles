@@ -5,7 +5,7 @@ layout: default
 title: Week 1 Lab Notebook
 # description: Lab notebook covering week 1
 type: tangibles
-courses: { 'compsci': {'week': 1} }
+courses: { 'compsci': {'week': 1}}
 ---
 
 **Python Quiz Description**
